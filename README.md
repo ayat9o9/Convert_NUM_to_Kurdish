@@ -12,6 +12,6 @@ npm install input_num_to_ar_ku
 
 ```javascript
 let Converter = require("input_num_to_ar_ku");
-let ENG_NUM = Converter(123);
+let ENG_NUM = Converter.Converter(123)
 *result is ١٢٣*
 ```
