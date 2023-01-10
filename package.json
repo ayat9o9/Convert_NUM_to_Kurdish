@@ -1,6 +1,6 @@
 {
   "name": "input_num_to_ar_ku",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "to converting num",
   "main": "index.js",
   "scripts": {
