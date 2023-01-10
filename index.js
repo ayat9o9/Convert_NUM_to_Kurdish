@@ -1,4 +1,4 @@
-exports.convertNumto_KU_AR = function (num) {
+exports.Converter = function (num) {
   const KU_AR_NUM = [
     { 0: "٠" },
     { 1: "١" },
