@@ -5,13 +5,13 @@
 This package is distributed via npm:
 
 ```
-npm install Convert_NUM_to_Kurdish
+npm install input_num_to_ar_ku
 ```
 
 ## Usage
 
 ```javascript
-let Converter = require("Convert_NUM_to_Kurdish");
+let Converter = require("input_num_to_ar_ku");
 let ENG_NUM = Converter(123);
 *result is ١٢٣*
 ```
