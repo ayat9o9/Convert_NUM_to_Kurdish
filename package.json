@@ -1,7 +1,7 @@
 {
   "name": "Convert_NUM_to_Kurdish",
   "version": "1.0.0",
-  "description": "",
+  "description": "to converting num",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/ayat9o9/Convert_NUM_to_Kurdish.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Convert_NUM_to_Kurdish"
+  ],
+  "author": "Ayat Khalid Lak",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ayat9o9/Convert_NUM_to_Kurdish/issues"
