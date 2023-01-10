@@ -1,5 +1,5 @@
 {
-  "name": "Convert_NUM_to_Kurdish",
+  "name": "input_num_to_ar_ku",
   "version": "1.0.1",
   "description": "to converting num",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ayat9o9/Convert_NUM_to_Kurdish.git"
   },
   "keywords": [
-    "Convert_NUM_to_Kurdish"
+    "input_num_to_ar_ku"
   ],
   "author": "Ayat Khalid Lak",
   "license": "ISC",
